@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(227, 227, 0);
+}
+.esas{
+    border: 1px solid white;
+    width: 450px;
+    height: 500px;
+    background-color: white;
+    margin: auto;
+    margin-top: 110px;
+    border-radius: 5px;
+}
+.info{
+    margin-left: 30px;
+    margin-top: 40px;
+}
+.daxil input{
+    border-color: grey;
+    border-radius: 7px;
+    width: 380px;
+    height: 35px;
+}
+.parol{
+    margin-top: 20px;
+}
+.xatirla{
+    margin-top: 20px;
+}
+.login{
+    margin-top: 20px;
+}
+.login input{
+    width: 380px;
+    height: 35px;
+    background-color: rgb(227, 227, 0);
+    font-size: 20px;
+    border-style: none;
+    border-radius: 7px;
+    color: rgb(255, 255, 255);
+}
+.uzv {
+    margin-left: 110px;
+    margin-top: 50px;
+    
+}
+.xatirla .unutdum{
+    margin-left: 220px;
+}
